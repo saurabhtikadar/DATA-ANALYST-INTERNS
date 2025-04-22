@@ -9,7 +9,7 @@
 [Superstore.CSV](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 
 ### Usage
-**All steps related to data cleaning and preprocessing are documented in the [superstore.ipynb]() Jupyter Notebook file.**
+**All steps related to data cleaning and preprocessing are documented in the [superstore.ipynb](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%202/superstore.ipynb) Jupyter Notebook file.**
 
 ### Power BI Dashboard:
 After cleaning and processing the data, a detailed and interactive dashboard was created using **`Power BI`.**
@@ -49,7 +49,7 @@ The Power BI dashboard showcases the following key insights and metrics:
 Each of these insights is visualized through simple charts and graphs, providing an intuitive understanding of the dataset's key trends and patterns.
 ## View the Dashboard
 - Interactive Dashboard: **[Power BI Dashboard Link](https://app.powerbi.com/groups/me/reports/3983d6fa-3ef8-41fa-bfc9-f948ce989ae9/b18ea5360677c30c2d8d?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&experience=power-bi)**
-- PDF Version of the Dashboard: **[Download PDF](file:///D:/DATA%20ANALYST/Internship/superstore%20internship.pdf)**
+- PDF Version of the Dashboard: **[Download PDF](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%202/superstore%20Dashboard.pdf)**
 
 ![Image](https://github.com/user-attachments/assets/9f3da28a-4827-455b-a6cb-798dcc8eedec)
 
