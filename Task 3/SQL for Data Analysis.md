@@ -6,6 +6,8 @@ This repository contains SQL scripts for managing a company database. The databa
 
 ## Database Schema
 **Database file : [Company Database Zip](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%203/Company%20Database%20Zip.zip)**
+
+**PostgreSQL file : [companydb](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%203/Company%20Database.sql)**
 ### 1. **Tables**
 The following tables are created to organize the data:
 
