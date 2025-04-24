@@ -9,6 +9,8 @@ This internship is an opportunity to enhance my data analysis skills while contr
 ### Tasks
 
 - **Task 1: [Data Cleaning and Preprocessing](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%201/Data%20Cleaning%20and%20Preprocessing.md)**
+- **Task 2: [Data Visualization And Storytelling](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%202/Data%20Visualization%20and%20Storytelling.md)**
+- **Task 3: [SQL for Data Analysis](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%203/SQL%20for%20Data%20Analysis.md)**
 
 
 # Final Note
