@@ -69,9 +69,9 @@ CSV HEADER;
 
 ---
 
-## Views and Queries
+## 1. Views and Queries
 
-### **1. Analyzing Employee Contributions**
+### **Analyzing Employee Contributions**
 ```sql
 CREATE OR REPLACE VIEW employees_with_projects_and_total_hours_worked AS
 SELECT e.EmployeeID,e.FirstName,e.LastName,d.DepartmentName,p.ProjectName,
