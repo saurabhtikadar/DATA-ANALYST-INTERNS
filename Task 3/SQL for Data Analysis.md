@@ -87,6 +87,8 @@ SELECT * FROM employees_with_projects_and_total_hours_worked;
 - View: `employees_with_projects_and_total_hours_worked`
 - Retrieves detailed information about employees, their departments, and projects, along with the total hours they have worked on projects within the "IT" department.
 
+**Result :**![Image](https://github.com/user-attachments/assets/53dc4575-14be-4c3d-87ce-652128df505d)
+
 ### **2. Joining Data**
 
 - **a. INNER JOIN:** Shows only the records that match in all the joined tables.
@@ -106,6 +108,8 @@ SELECT * FROM employees_details_with_inner_join;
 - View: `employees_details_with_inner_join`
 - Displays employees involved in any project along with their department and project details.
 
+**Result :**![Image](https://github.com/user-attachments/assets/53d26da5-ee58-481c-bdd4-23246ef9804d)
+
 - **b. LEFT JOIN with Filter**:Retrieves all records from the first table (Employees) and the matching records from the other tables (Departments, Projects), even if some data is missing.
 ```sql
 CREATE OR REPLACE VIEW employees_details_with_left_join AS
@@ -124,6 +128,8 @@ SELECT * FROM employees_details_with_left_join;
 - View: `employees_details_with_left_join`
 - Displays all employees from the "HR" department, including those not associated with any project.
 
+**Result :**![Image](https://github.com/user-attachments/assets/2d5d811c-66f6-433f-8478-94acd4a2cebd)
+
 - **c. RIGHT JOIN with Filter**:Retrieves all records from the second table (Projects) and the matching records from the first table (Employees), even if employee data is missing.
 ```sql
 CREATE OR REPLACE VIEW employees_details_with_right_join AS
@@ -141,6 +147,8 @@ SELECT * FROM employees_details_with_right_join;
 ```
 - View: `employees_details_with_right_join`
 - Displays all employees and their projects within the "IT" department.
+
+**Result :**![Image](https://github.com/user-attachments/assets/d2fe5ffe-d58c-4de1-8a97-f582db7fea39)
 
 ### **3. Subqueries**
 
@@ -162,6 +170,8 @@ SELECT * FROM earning_more_than_avg;
 ```
 - View: `earning_more_than_avg`
 
+**Result :**![Image](https://github.com/user-attachments/assets/abfed8f3-f2d8-4f8d-a8c2-ca4407c0e0d1)
+
 2. Total Hours Worked on Projects with Budgets Over 50,000
 ```sql
 CREATE OR REPLACE VIEW project_budget_hours AS
@@ -176,6 +186,8 @@ SELECT * FROM project_budget_hours;
 ```
 - View: `project_budget_hours`
 
+**Result :**![Image](https://github.com/user-attachments/assets/7cb28169-7939-4b3f-8b34-7b02b69fd5c7)
+
 3. Employee with the Longest Tenure
 ```sql
 CREATE OR REPLACE VIEW longest_tenure_employee AS
@@ -186,6 +198,8 @@ WHERE e.HireDate = (SELECT MIN(HireDate) FROM Employees);
 SELECT * FROM longest_tenure_employee;
 ```
 - View: `longest_tenure_employee`
+
+**Result :**![Image](https://github.com/user-attachments/assets/a281b5e3-39be-4ebb-b659-dfc5342de988)
 
 4. Total Project Budget per Department
 ```sql
@@ -199,6 +213,8 @@ FROM Departments d;
 SELECT * FROM department_budget;
 ```
 - View: `department_budget`
+
+**Result :**![Image](https://github.com/user-attachments/assets/eadb5964-4709-49b4-8841-08cef5465f75)
 
 5. Employees on the Highest-Budget Project
 ```sql
@@ -217,6 +233,8 @@ SELECT * FROM employees_with_high_budget;
 ```
 - View: `employees_with_high_budget`
 
+**Result :**![Image](https://github.com/user-attachments/assets/53890344-14dc-479d-95b7-b00fb5543013)
+
 6. Highest-Paid Employee in Each Department
 ```sql
 CREATE OR REPLACE VIEW employees_high_salary AS
@@ -232,6 +250,8 @@ WHERE e.Salary = (
 SELECT * FROM employees_high_salary;
 ```
 - View: `employees_high_salary`
+
+**Result :**![Image](https://github.com/user-attachments/assets/63073497-f725-4223-ac7e-16a43f747ee3)
 
 ### **4. Aggregate Reports**
 Generates a summary report for each department, including total project budget, average employee salary, total employees, and total hours worked.
@@ -256,6 +276,8 @@ SELECT * FROM report_each_department;
 ```
 - View: `report_each_department`
 
+**Result :**![Image](https://github.com/user-attachments/assets/0e4fa030-2e20-4846-ac8e-4c87e94c30dc)
+
 ---
 
 ## Query Optimization
@@ -279,6 +301,8 @@ JOIN Departments d ON p.DepartmentID = d.DepartmentID
 WHERE d.DepartmentName = 'IT';
 ```
 
+**Result :**![Image](https://github.com/user-attachments/assets/bbc87775-53ac-4b0a-b01c-5140a515235c)
+
 ### Validate Optimization
 Use the `EXPLAIN ANALYZE` command:
 
@@ -290,6 +314,7 @@ JOIN Departments d ON p.DepartmentID = d.DepartmentID
 WHERE d.DepartmentName = 'IT';
 ```
 
+**Result :**![Image](https://github.com/user-attachments/assets/c5c102cd-48a7-4dbc-a23d-1d4a8a31a1e5)
 ---
 
 ## Contribution
