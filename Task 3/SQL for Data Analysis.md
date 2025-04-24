@@ -1,4 +1,11 @@
-# Company Database Management
+## Task 3: SQL for Data Analysis
+**Objective :** Use SQL queries to extract and analyze data from a database.
+
+**Tools :** PostgreSQL
+
+**Deliverables :** SQL queries in a SQL file + screenshots of output
+
+## Company Database Management
 
 This repository contains SQL scripts for managing a company database. The database is designed to manage employee information, departmental structure, project details, and employee involvement in projects. Below is an overview of the functionality provided by the scripts and how to use them.
 
