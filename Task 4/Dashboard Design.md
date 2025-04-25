@@ -7,6 +7,7 @@
 
 **Google Sheet:**[Adidas US Sales Datasets](https://docs.google.com/spreadsheets/d/1jcJjOk8NvFdLxr3tbKU7IASrlxyqTokQ/edit?gid=606347802#gid=606347802)
 
+---
 ### Steps to Process the Data
 1. **Data Cleaning:**
    - Convert the `Invoice Date` column to a proper date format.
@@ -37,15 +38,15 @@
 4. **Deliverables:**
    - **Interactive Dashboard**: [Adidas US Sales Dashboard.pbix](https://app.powerbi.com/groups/me/reports/f9f9c66c-b333-4103-8773-9cd74e3c24b8/57c261997f724e266760?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&experience=power-bi)
    - **Presentation Summary (PPT)**: [Adidas Sales Dashboard](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%204/Adidas%20Sales%20Dashboard.pptx)
-  
+---
 **1. Overview Report**
   
 ![Image](https://github.com/user-attachments/assets/683ae972-65e4-405a-96fe-ba85bbf5d49b)
-  
+---
 **2. Sales Report**
 
 ![Image](https://github.com/user-attachments/assets/e727260b-5eff-4123-b59e-eb01a0adf498)
-  
+---
 **3. Profit Report**
 
 ![Image](https://github.com/user-attachments/assets/f1debb09-3ba9-4b7b-b2e1-1a09d8e77cb3)
