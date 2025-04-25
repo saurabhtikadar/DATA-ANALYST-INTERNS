@@ -36,7 +36,7 @@
 
 4. **Deliverables:**
    - **Interactive Dashboard**: [Adidas US Sales Dashboard.pbix](https://app.powerbi.com/groups/me/reports/f9f9c66c-b333-4103-8773-9cd74e3c24b8/57c261997f724e266760?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&experience=power-bi)
-   - **Presentation Summary (PPT)**: [Adidas Sales Dashboard]()
+   - **Presentation Summary (PPT)**: [Adidas Sales Dashboard](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%204/Adidas%20Sales%20Dashboard.pptx)
   
 **1. Overview Report**
   
