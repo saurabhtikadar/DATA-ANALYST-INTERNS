@@ -11,7 +11,8 @@ This internship is an opportunity to enhance my data analysis skills while contr
 - **Task 1: [Data Cleaning and Preprocessing](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%201/Data%20Cleaning%20and%20Preprocessing.md)**
 - **Task 2: [Data Visualization And Storytelling](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%202/Data%20Visualization%20and%20Storytelling.md)**
 - **Task 3: [SQL for Data Analysis](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%203/SQL%20for%20Data%20Analysis.md)**
-
+- **Task 4:[Dashboard Design](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%204/Dashboard%20Design.md)**
+- **Task 5:[Exploratory Data Analysis](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%205/Exploratory%20Data%20Analysis.md)**
 
 # Final Note
 This internship with Elevate Labs has been an incredible learning experience, allowing me to apply theoretical knowledge to real-world datasets. Data cleaning, while often overlooked, is the foundation of every meaningful analysis.
