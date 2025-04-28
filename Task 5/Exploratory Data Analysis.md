@@ -11,11 +11,8 @@ The goal of this task is to extract meaningful insights from the Titanic dataset
   - `Matplotlib` and `Seaborn` for data visualization.
 - **Jupyter Notebook** for interactive data analysis.
 
-### **Deliverables**
-1. **Jupyter Notebook**: Contains the complete EDA process with code, visualizations, and observations.
-2. **PDF Report**: Summarizes the findings and insights derived from the analysis.
 
-### **Dataset:** [Titanic Dataset](https://www.kaggle.com/c/titanic/data?select=train.csv&utm_source=chatgpt.com) or [Titanic Zip]()
+### **Dataset:** [Titanic Dataset](https://www.kaggle.com/c/titanic/data?select=train.csv&utm_source=chatgpt.com) or [Titanic Zip](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%205/titanic.zip)
 ---
 ## Overview
 This project conducts an exploratory data analysis (EDA) of the Titanic dataset to uncover insights about passenger survival based on various factors such as age, class, and fare. It involves the use of Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and visualization.
@@ -56,7 +53,7 @@ output_path
 
 
 
-The Titanic dataset (**[titanic_combined.csv]()**) is loaded for analysis. It contains information about passengers, including their age, class, fare, and survival status.
+The Titanic dataset (**[titanic_combined.csv](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%205/titanic_combined.csv)**) is loaded for analysis. It contains information about passengers, including their age, class, fare, and survival status.
 # 2. Exploratory Data Analysis
 ### 1. Load the Dataset
 ```python
@@ -102,6 +99,7 @@ plt.xlabel('Age', fontsize=14)
 plt.ylabel('Frequency', fontsize=14)
 plt.show()
 ```
+**Result:**![Image](https://github.com/user-attachments/assets/d3185473-0dbd-440e-a8cf-3645d1a4e390)
 - **Purpose:** A histogram is used to visualize the distribution of a single variable. It divides the data into bins and shows the frequency of data points in each bin.
 
 - **Histogram for Age Distribution
@@ -123,6 +121,7 @@ plt.xlabel('Survived (0 = No, 1 = Yes)', fontsize=14)
 plt.ylabel('Count', fontsize=14)
 plt.show()
 ```
+**Result:**![Image](https://github.com/user-attachments/assets/18442e81-39d1-4d02-8902-de0c3eaa9252)
 - **Purpose:** Displays the number of survivors (Survived = 1) and non-survivors (Survived = 0).
 
 - **Survived Counts Observation:** The countplot shows the number of passengers who survived (Survived = 1) and those who didn’t (Survived = 0).
@@ -143,6 +142,7 @@ plt.xlabel('Survived (0 = No, 1 = Yes)', fontsize=14)
 plt.ylabel('Age', fontsize=14)
 plt.show()
 ```
+**Result:**![Image](https://github.com/user-attachments/assets/a96dacb8-a4c0-435b-abb0-5c4f2a0a05d0)
 - **Purpose:** A boxplot is used to visualize the distribution of a variable and identify outliers. It shows the median, quartiles, and potential outliers.
 
 - **Boxplot for Age vs. Survival Observation:** The boxplot shows that the median age of survivors is slightly lower than that of non-survivors. There are more outliers in the older age group for non-survivors.
@@ -158,6 +158,7 @@ plt.ylabel('Fare', fontsize=14)
 plt.legend(title='Survived', loc='upper right')
 plt.show()
 ```
+**Result:**![Image](https://github.com/user-attachments/assets/f6792405-825f-44f0-b583-259171ac5fd9)
 - **Purpose:** A scatterplot is used to visualize the relationship between two continuous variables.
 
 - **Scatterplot for Age vs. Fare
@@ -174,6 +175,7 @@ sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', fmt='.2f', square=True)
 plt.title('Correlation Heatmap', fontsize=16)
 plt.show()
 ```
+**Result:**![Image](https://github.com/user-attachments/assets/65905cc0-32ca-4ed2-aab4-4e4ad3d775cc)
 - **Purpose:** A heatmap was generated to show correlations between numeric variables.
 
 - **Observation:**
@@ -188,6 +190,7 @@ plt.show()
 sns.pairplot(data, hue='Survived', palette='coolwarm')
 plt.show()
 ```
+**Result:**![Image](https://github.com/user-attachments/assets/be67c3d0-3339-4075-8d4b-96a98ffd9546)
 - **Purpose:** A pairplot is used to visualize pairwise relationships between numerical variables in the dataset. The hue='Survived' parameter highlights the survival status (0 = No, 1 = Yes) using different colors.
 
 - **Observation:** The pairplot shows how variables like Age, Fare, and Pclass interact with each other. Passengers who paid higher fares (Fare) and belonged to higher classes (Pclass) were more likely to survive. Younger passengers also show a higher survival rate.
