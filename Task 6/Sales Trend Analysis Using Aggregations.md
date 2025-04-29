@@ -11,10 +11,10 @@ The primary goal of this task is to analyze sales trends using SQL aggregations.
 
 ## Tools Used
 - Database: PostgreSQL / MySQL / SQLite
-- Data Source: [Online sales dataset](https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset/data) Or [Online dataset]()
+- Data Source: [Online sales dataset](https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset/data) Or [Online dataset](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%206/Online%20Dataset.zip)
 
 ## Deliverables
-- [SQL Script]() to process and analyze data.
+- [SQL Script](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%206/Online%20Sales%20SQL%20Script.sql) to process and analyze data.
 - Results tables showcasing insights from the analysis.
 
 ---
