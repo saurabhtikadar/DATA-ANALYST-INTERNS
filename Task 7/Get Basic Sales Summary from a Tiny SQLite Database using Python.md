@@ -108,7 +108,9 @@ plt.savefig("sales_chart.png")
 # Show the plot
 plt.show()
 ```
-#### **Result:**![Image](https://github.com/user-attachments/assets/54b5920e-1b42-4e48-a559-ad04a7f50d71)
+#### **Result:**
+
+![Image](https://github.com/user-attachments/assets/54b5920e-1b42-4e48-a559-ad04a7f50d71)
 ## Output
 
 - **Database**: [sales_dataset.db](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%207/sales_dataset.db) containing the `sales` table with 1000+ rows of data.
