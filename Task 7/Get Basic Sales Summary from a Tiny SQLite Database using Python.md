@@ -113,7 +113,7 @@ plt.show()
 
 - **Database**: [sales_dataset.db](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%207/sales_dataset.db) containing the `sales` table with 1000+ rows of data.
 - **Analysis**: A summary of sales by product displayed in the console.
-- **Visualization**: A bar chart ([sales_chart.png](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/edit/main/Task%207/Get%20Basic%20Sales%20Summary%20from%20a%20Tiny%20SQLite%20Database%20using%20Python.md#result)) showing revenue by product.
+- **Visualization**: A bar chart ([sales_chart.png](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%207/Get%20Basic%20Sales%20Summary%20from%20a%20Tiny%20SQLite%20Database%20using%20Python.md#result)) showing revenue by product.
 
 ## How to Run
 
