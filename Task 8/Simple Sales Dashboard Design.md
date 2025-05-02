@@ -68,3 +68,16 @@ The dataset is now ready to be used for creating a simple sales dashboard in Pow
 I used this dummy data to create a simple sales dashboard as part of my internship project. You can access the dashboard by clicking the link below:
 
 [Click here to view the dashboard](https://app.powerbi.com/groups/me/reports/724cdd2b-a672-45cb-8b4b-dce0d94364e4/7d9bc1d33b582d009dcb?experience=power-bi) or [Download Sales.pbix](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%208/Sales.pbix)
+
+![Image](https://github.com/user-attachments/assets/da211021-25e1-4cd4-89eb-982cafa5e977)
+
+![Image](https://github.com/user-attachments/assets/47fdc6c9-39ee-4fb1-ab5a-c32ca0b3383a)
+
+![Image](https://github.com/user-attachments/assets/1a15319b-a5b9-4f30-8f67-dc8488a74546)
+
+![Image](https://github.com/user-attachments/assets/d6fcf1ca-f474-4160-95f8-8c6cff8a2e0b)
+
+![Image](https://github.com/user-attachments/assets/40657a48-e84c-4808-832d-9cc46d071ecd)
+
+### Final Note
+This project was a great learning experience, allowing me to explore data preparation, visualization, and dashboard design. It reinforced the importance of clean and structured data in creating meaningful insights. I hope this inspires others to dive into data analytics and create impactful projects!
