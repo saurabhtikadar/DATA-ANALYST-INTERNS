@@ -62,9 +62,9 @@ df.to_csv(file_path, index=False)
 The dataset is now ready to be used for creating a simple sales dashboard in Power BI.
 <h2 align="center">OR</h2>
 
-#### Download Dataset: [Dummy_Sales_Data]()
+#### Download Dataset: [Dummy_Sales_Data](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%208/Dummy_Sales_Data.csv)
 ---
 ## Dashboard Creation
 I used this dummy data to create a simple sales dashboard as part of my internship project. You can access the dashboard by clicking the link below:
 
-[Click here to view the dashboard]()
+[Click here to view the dashboard](https://app.powerbi.com/groups/me/reports/724cdd2b-a672-45cb-8b4b-dce0d94364e4/7d9bc1d33b582d009dcb?experience=power-bi)
