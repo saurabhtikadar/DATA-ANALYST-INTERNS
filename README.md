@@ -6,7 +6,7 @@ Welcome to my Data Analyst Internship repository! This repository documents my p
 
 This internship is an opportunity to enhance my data analysis skills while contributing to meaningful projects under the guidance of the Elevate Labs team. The primary focus is on exploring real-world datasets, cleaning and preparing them for analysis, and deriving actionable insights.
 
-### Tasks
+## Tasks
 
 - **Task 1: [Data Cleaning and Preprocessing](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%201/Data%20Cleaning%20and%20Preprocessing.md)**
 - **Task 2: [Data Visualization And Storytelling](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%202/Data%20Visualization%20and%20Storytelling.md)**
@@ -16,6 +16,10 @@ This internship is an opportunity to enhance my data analysis skills while contr
 - **Task 6: [Sales Trend Analysis Using Aggregations](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%206/Sales%20Trend%20Analysis%20Using%20Aggregations.md)**
 - **Task 7: [Get Basic Sales Summary from a Tiny SQLite Database using Python](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%207/Get%20Basic%20Sales%20Summary%20from%20a%20Tiny%20SQLite%20Database%20using%20Python.md)**
 - **Task 8: [Simple Sales Dashboard Design](https://github.com/saurabhtikadar/DATA-ANALYST-INTERNS/blob/main/Task%208/Simple%20Sales%20Dashboard%20Design.md)**
+
+## Projects
+
+- **Project 1: [HR Analysis Dashboard with Navigation Menu](https://github.com/saurabhtikadar/Power-Bi-Projects/tree/main/HR%20Analysis%20Dashboard%20with%20Navigation%20Menu)**
 # Final Note
 This internship with Elevate Labs has been an incredible learning experience, allowing me to apply theoretical knowledge to real-world datasets. Data cleaning, while often overlooked, is the foundation of every meaningful analysis.
 
